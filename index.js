@@ -16,7 +16,7 @@ var customerName = 'bob'
   bestCustomer = 'maybe bob'
 }
 
- function reassignLeastFavorite() {
+ function leastFavoriteCustomer() {
   const leastFavoriteCustomer = 'bob'
 }
 
